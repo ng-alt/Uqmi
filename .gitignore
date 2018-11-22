@@ -1,3 +1,4 @@
+libubox/
 uqmi
 .*
 Makefile
